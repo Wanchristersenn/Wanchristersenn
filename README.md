@@ -1,9 +1,9 @@
-<h1 align="center">Oii, eu sou o Wanchristersenn 😄.  </h1> <!--tittle -->
-<h3 alig="center">Bem Vindo ao meu GitHub </h1>  <!--Saudações-->
+<h1 align="center">Hii,i'm Wanchristersenn 😄.  </h1> <!--tittle -->
+<h3 alig="center">Welcome to my GitHub </h1>  <!--Saudações-->
 
 
-- 👨🏾‍🎓 Eu estou cursando Ciências da computação
-- 📚 Atualmente estudando Javascript. 
+- 👨🏾‍🎓 I am studying computer science
+- 📚 Currently studying Javascript.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> </br>
