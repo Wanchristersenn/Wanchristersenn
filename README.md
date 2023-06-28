@@ -1,3 +1,4 @@
+<img src="banner.gif"  width="350px" 
 <h1 align="center">Hii,i'm Wanchristersenn 😄.  </h1> <!--tittle -->
 <h3 alig="center">Welcome to my GitHub </h1>  <!--Saudações-->
 
