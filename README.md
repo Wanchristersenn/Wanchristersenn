@@ -1,6 +1,6 @@
-<img src="banner.gif"  width="350px" 
-<h1 align="center">Hii,i'm Wanchristersenn 😄.  </h1> <!--tittle -->
-<h3 alig="center">Welcome to my GitHub </h1>  <!--Saudações-->
+<img src="banner.gif"  width="325px" align="right" >
+<h1 align="left">Hii,i'm Wanchristersenn 😄.  </h1> <!--tittle -->
+<h3 alig="left">Welcome to my GitHub </h1>  <!--Saudações-->
 
 
 - 👨🏾‍🎓 I am studying computer science
@@ -15,6 +15,9 @@
   <a href = "mailto:wanchristersenn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wanchristersenn-ide%C3%A3o-258a7a26b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+</div> 
+
+""" 
+
 
 
